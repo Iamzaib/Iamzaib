@@ -20,6 +20,8 @@ Deploy robust server solutions with cloud platforms like AWS and Firebase.
 
 🎯 My Goal: I am passionate about using technology to solve complex problems and build efficient, scalable solutions. I aim to forge long-term partnerships with my clients by delivering exceptional value and innovative solutions.
 
+**Email:** ashahzaib1257@gmail.com
+
 🔗 Let's Connect! I'm always open to collaborating on projects and exploring new technologies. If you’re looking for a reliable developer to bring your ideas to life, let’s chat!
 
-**Email:** ashahzaib1257@gmail.com 
+ 
