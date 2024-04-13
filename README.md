@@ -1,4 +1,4 @@
-🌟 **Top AI Engineer & Full-Stack Developer | 💼 Upwork Top Rated Plus**
+🌟 **Top AI Engineer & Full-Stack Developer | 💼 Upwork Top Rated**
 
 🚀 I bring over 10 years of robust experience in full-stack development, specializing in AI, blockchain, and modern web technologies. My expertise includes JavaScript, TypeScript, React, Vue.js, Next.js, Node.js, Python, and Django.
 
